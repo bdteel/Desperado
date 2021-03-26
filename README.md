@@ -1,5 +1,5 @@
 # Desperado
-Game made with art and animation help from Max. Size of zip: 25.6MB Size after unzipping: 38MB
+Game made with art and animation help from a friend. Size of zip: 25.6MB Size after unzipping: 38MB
 
 After downloading the code, navigate to the Desperado folder and run the .exe file. 
 
